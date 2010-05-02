@@ -1,9 +1,7 @@
 core = 6.x
-projects[] = admin
 projects[admin][version] = 2
 projects[] = admin_menu
 projects[] = cck
-projects[] = context
 projects[context][version] = 3
 projects[] = ctools
 projects[] = date
