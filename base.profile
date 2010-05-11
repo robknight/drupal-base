@@ -7,8 +7,8 @@
  *   An array of modules to enable.
  */
 function base_profile_modules() {
-  return array('admin', 'admin_menu', 'cck', 'color', 'comment', 'context', 'ctools',/* 'devel', 'devel_themer'*/, 'help', 'features', 'install_profile_api', 
-'jquery_ui', 'jquery_update', 'menu', 'taxonomy', 'token', 'views', 'dblog');
+  return array('color', 'comment', 'help', 
+'menu', 'taxonomy', 'dblog');
 }
 
 /**
